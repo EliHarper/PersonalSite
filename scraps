@@ -1,0 +1,67 @@
+ <!-- Carousel -->
+
+    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+
+
+<!-- Extra Hexes -->
+
+<li>
+            <div>
+                <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fhpitgroupwebdesignstudio.bitballoon.com?w=360" alt=""/>
+                <h1>HP IT GROUP Web Design Studio</h1>
+                <p><a href="http://hpitgroupwebdesignstudio.bitballoon.com" target="_blank">HP IT GROUP Web Design Studio</a></p>
+            </div>
+        </li>
+        <li>
+            <div>
+                <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Ftercuman-bilisim-mer.ticiz.com?w=360" alt=""/>
+                <h1>
+                    TERCUMAN BİLİŞİM MERKEZİ</h1>
+                    <p> <a href="http://tercuman-bilisim-mer.ticiz.com" target="_blank"> TERCUMAN BİLİŞİM MERKEZİ</a></p>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fharunpehlivan.thefanbase.net?w=360" alt=""/>
+                    <h1>HARUN PEHLİVAN</h1>
+                    <p> <a href="http://harunpehlivan.thefanbase.net/" target="_blank"> HARUN PEHLİVAN</a> </p>
+                </div>
+            </li>
+            <li class="pusher"></li>
+            <li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fharunpehlivan.jimdo.com?w=360" alt=""/>
+                    <h1>Islamic sciences and IT computer science</h1>
+                    <p> <a href="https://harunpehlivan.jimdo.com/" target="_blank">Islamic sciences and IT computer science</a> </p>
+                </div>
+            </li>
+            
+            <li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fharunpehlivantebimtebitagem.business.site?w=360" alt=""/>
+                    <h1>TEBİTAGEM</h1>
+                    <p> <a href="http://harunpehlivantebimtebitagem.business.site/" target="_blank">TEBİTAGEM</a> </p>
+                </div>
+            </li>
+            <li class="pusher"></li>
+            <li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Ftebm.wordpress.com?w=360" alt=""/>
+                    <h1>INFORMATION TECHNOLOGY</h1>
+                    <p> <a href="https://tebm.wordpress.com/" target="_blank">CLICK</a></p>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fharunpehlivantebimtebitagemmobile.bitballoon.com?w=360" alt=""/>
+                    <h1>MOBİLE BROWSER</h1>
+                    <p> <a href="http://harunpehlivantebimtebitagemmobile.bitballoon.com/" target="_blank">CLICK</a> </p>
+                </div>
+            </li><li>
+                <div>
+                    <img src="https://s-ssl.wordpress.com/mshots/v1/http%3A%2F%2Fharunpehlivantebimtebitagem.bitballoon.com?w=360" alt=""/>
+                    <h1>HE THERE</h1>
+                    <p><a href="http://harunpehlivantebimtebitagem.bitballoon.com/" target="_blank">CLICK</a> </p>
+                </div>
+            </li>
